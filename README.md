@@ -3,6 +3,7 @@ Developed a Secure Notes App using Python, Tkinter, and the Cryptography library
 
 # Secure Notes App
 
+
 ## Overview
 
 Secure Notes App is a desktop application developed using Python that allows users to securely store and manage personal notes. The application encrypts note contents before saving them, ensuring confidentiality and protection against unauthorized access.
